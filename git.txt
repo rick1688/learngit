@@ -1,0 +1,42 @@
+1. setup git
+	sudo apt-get install git
+
+2. create repository
+	cd repo dir
+	git init
+
+3. git add file		
+	//add file from working directory to stage
+
+4. git commit
+	//commit file from stage to repository
+
+5. git status
+	//display the change amongs working directory, stage and repository
+
+6. git log --pretty=oneline
+	//display the log
+
+7. git diff file
+	//display the diff between working directory and stage
+
+8. git reset --hard HEAD/HEAD^/HEAD^^/commit id
+	//restore to repository
+
+9. git reflog
+	//display the git command log
+
+10. git diff HEAD -- file
+	//display the diff between stage and repository
+
+11. git checkout -- file 
+	//restore the file from stage or repository
+
+12. get reset HEAD file
+	//restor the stage file from repository
+
+13. git rm file
+	//remove the file from stage
+
+14. 
+
