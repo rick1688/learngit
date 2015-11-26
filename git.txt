@@ -644,7 +644,22 @@
 28. git stash pop
 	//restore the current brach
 
-29. 
+29. git branch -D branch name
+	//delete the branch force
+
+30. git remote -v
+	//display the remote repo info
+
+31. git push origin branch name
+	//push the local brach to the remote branch
+
+32. git branch --set-upstream branch-name origin/branch-name
+	//setup the relationship between the local branch and the remote branch
+
+33. git pull
+	//pull the remote to local 
+
+34.   
 
 
 
