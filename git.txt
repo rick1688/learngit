@@ -50,7 +50,601 @@
 17. git clone git@github.com:name/gitskills.git
 	//clone the remote repo to the local repo
 
+18. git branch
+	//display the branch
 
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 18. git branch
+	//display the branch
+
+19. git branch name
+	//create the branch
+
+20. git checkout branch name
+	//switch to branch name
+
+21. git check -b branch name
+	//create and swith to branch name
+
+22. git merger branch name
+	//merge the branch name to the current branch name
+
+23. git branch -d branch name
+	//delete the branch name
+
+24. git log --graph
+	//display the branch by graph
+
+25. git merge --no-ff -m "merge with no-ff" branch name
+	//merge the branch name to the current branch with the branch name log.
+
+26. git stash	
+	//save the current branch work
+
+27. git stash list
+	//list the current brach save
+
+28. git stash pop
+	//restore the current brach
+
+29. 
 
 
 
