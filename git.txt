@@ -37,6 +37,24 @@
 
 13. git rm file
 	//remove the file from stage
+--------------------------------------------
+14. git remote add origin git@github.com:name/learngit.git
+	//add origin repository in remote repository
 
-14. 
+15. git push -u origin master
+	//push all the local repo to the remote repo first time
+
+16. git push origin master
+	//push all the local repo to the remote repo
+
+17. git clone git@github.com:name/gitskills.git
+	//clone the remote repo to the local repo
+
+
+
+
+
+
+
+
 
