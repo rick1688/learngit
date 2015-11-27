@@ -659,9 +659,38 @@
 33. git pull
 	//pull the remote to local 
 
-34.   
+34. git tag tag-name 
+	//create a tag at HEAD   
+
+35. git tag tag-name commit id
+	//create a tag at commit id
+
+36. git tag -a tag-name -m "tag info"
+	//assign the tag info
+
+37. git tag -s tag-name -m "tag info"
+	//create a tag with PGP sign
+
+38. git tag 
+	//display the tag
+
+39. git show tag-name
+	//display the tag info
 
 
+40. git push origin tag-name
+	//push the tag to remote origin
+
+41. git push orign --tags
+	//push all local tag to remote origin
+
+42. git tag -d tag-name
+	//delete the local tag
+
+43. git push origin: refs/tags/tag-name
+	//delete the remote tag
+
+44.
 
 
 
